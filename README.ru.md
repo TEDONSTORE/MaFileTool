@@ -1,4 +1,4 @@
-# maFileTool
+# MaFileTool
 [English Version](README.md) | [Русская Версия](README.ru.md)
 
 <p align="center">
