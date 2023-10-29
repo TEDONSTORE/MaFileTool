@@ -1,11 +1,6 @@
 # MaFileTool
 [English Version](README.en.md) | [Русская Версия](README.ru.md)
 
-<p align="center">
-  <img src="https://github.com/Riddler2077/maFileTool/blob/master/icon.ico" width="150" alt="img">
-  <h1 align="center"><a href="https://github.com/Riddler2077/maFileTool/releases/tag/maFileTool1.0.6" target="_blank">Download here</a></h1>
-</p>
-
 What is it:
 - This software is perfect for automatically linking Steam Guard to your accounts and creating mafiles.
 
