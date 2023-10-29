@@ -73,6 +73,7 @@ A list of all countries for each individual service is attached below:
 
 Limits:
 - Steam gives 4 attempts per week to link the Steam Guard number
+- You can link one phone number to many accounts, then you need to wait 15 minutes between linking.
 
 Errors/bugs:
 - IP Banned - You have made too many failed/successful login attempts. Change the ip or alternatively set the BindingTimeout value for 4-5 minutes.
